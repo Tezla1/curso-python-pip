@@ -9,4 +9,12 @@ python3 main.py
 ```
 
 
+# App project
 
+```sh
+git clone
+cd App
+source env/bin/activate
+pop3 install -r requirements.txt
+python3 main.py
+```
